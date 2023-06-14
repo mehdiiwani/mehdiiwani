@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/@eramaris1?sub_confirmation=1" class="button">
+    <a href="https://www.youtube.com/@mehdiiwani?sub_confirmation=1" class="button">
         <img src="https://img.shields.io/badge/YouTube-Follow-%23FF0000?logo=youtube&style=for-the-badge&logoColor=white" alt="YouTube">
     </a>
     <a href="https://instagram.com/mehdii.wani" class="button">
