@@ -7,7 +7,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mehdiiwani&color=brightgreen)
 
 <p align="center">
-<div align="center">
             <a href="https://paytm.me/lT-ZGSW" target="_blank" class="button">
                 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge">
             </a>    
