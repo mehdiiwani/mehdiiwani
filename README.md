@@ -112,7 +112,7 @@
 <br>
 <p align="center">
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiiwani&theme=radical&hide_border=true" align="left" alt="mehdiiwaniS" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiiwani&theme=radical&hide_border=true" align="left" alt="mehdiiwani" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehdiiwani&show_icons=true&count_private=true&hide_border=true" align="right" > 
 <br>
