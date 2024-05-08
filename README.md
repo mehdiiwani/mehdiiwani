@@ -39,15 +39,16 @@
 - 🌍 I'm from Budgam, Kashmir.
 - 💻 Web3 Developer | Blockchain Enthusiast | DevOps Practitioner.
 - ✍️ Content Writer | Gamer.
-- 📝 Check out my articles on [LinkedIn](https://www.linkedin.com/in/muntazir-mehdi-b94657139/).
+- 📝 Check out my articles on [TradeDog](https://tradedog.io/author/muntazir-mehdi/).
 <br>
 
 <h2>⛓️ Blockchain Enthusiast:</h2>
 <br>
 
-- ✨ Exploring the world of blockchain technology.
-- 📚 Studying smart contracts and decentralized applications.
-- 🌱 Learning about different blockchain platforms.
+- ✨ Exploring the world of Blockchain and DeFi World.
+- 🪙 Actively working in the Analysis and Investments in DeFi Sector
+- 📚 Studying , DLT, Mining and Quantum Resistant Blockchains .
+- 🌱 Learning about smart contracts, Nodes and EVM.
 
 <br>
 
