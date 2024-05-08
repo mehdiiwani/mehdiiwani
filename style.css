@@ -41,8 +41,10 @@ body {
 }
 
 .social-icon {
-  font-size: 2em; /* Set social icon size */
-}
+    font-size: 2em; /* Set social icon size */
+    color: #fff; /* White color for icons */
+    margin: 0 10px; /* Add spacing between icons */
+  }
 
 .content {
    text-align: center;
