@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #222; /* Metallic black background */
+  color: #fff; /* White text color */
+}
+
+.header {
+  text-align: center; /* Center align header content */
+  padding: 50px 0; /* Add top and bottom padding */
+}
+
+.logo {
+  font-size: 2.5em; /* Set logo font size */
+  margin-bottom: 20px; /* Add space below logo */
+}
+
+.profile-pic {
+  border-radius: 50%; /* Make profile picture circular */
+  width: 200px; /* Set profile picture width */
+  height: 200px; /* Set profile picture height */
+  margin: 0 auto; /* Center profile picture horizontally */
+}
+
+.social-links {
+  display: flex; /* Arrange social links horizontally */
+  justify-content: center; /* Center social links horizontally */
+  margin-top: 30px; /* Add space above social links */
+}
+
+.social-links a {
+  margin: 0 15px; /* Add spacing between social links */
+  color: #fff; /* White color for social icons */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.social-links a:hover {
+  color: #333; /* Change icon color on hover */
+  transition: color 0.3s ease-in-out; /* Smooth color transition */
+}
+
+.social-icon {
+  font-size: 2em; /* Set social icon size */
+}
+
+.content {
+  padding: 50px 0; /* Add top and bottom padding for content sections */
+}
+
+.content section {
+  margin-bottom: 50px; /* Add spacing between content sections */
+}
+
+.content h2 {
+  font-size: 1.8em; /* Set heading font size */
+  margin-bottom: 15px; /* Add space below headings */
+}
+
+.contact-icons a {
+  margin: 0 20px; /* Add spacing between social icons in connect section */
+}
+
+.contact-icons a:hover {
+  transform: scale(1.1); /* Scale social icons on hover */
+  transition: transform 0.3s ease-in-out; /* Smooth scaling transition */
+}
