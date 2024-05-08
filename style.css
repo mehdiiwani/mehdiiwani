@@ -46,6 +46,31 @@ body {
     margin: 0 10px; /* Add spacing between icons */
   }
 
+.featured-articles {
+  text-align: center; /* Center align content */
+  margin-bottom: 50px; /* Add spacing below the section */
+}
+
+.featured-articles ul {
+  list-style: none; /* Remove default bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+.featured-articles li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
+.featured-articles a {
+  color: #fff; /* White color for links */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.featured-articles a:hover {
+  color: #333; /* Change link color on hover */
+  transition: color 0.3s ease-in-out; /* Smooth color transition */
+}
+
 .content {
    text-align: center;
   padding: 50px 0; /* Add top and bottom padding for content sections */
